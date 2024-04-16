@@ -1,0 +1,3 @@
+RAM Information:
+V: 16GB
+Frequency: 4.0

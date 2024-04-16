@@ -1,0 +1,5 @@
+Video Card Information:
+Frequency: 3.8
+Type: ST-over9
+V: 128 MB
+Model: STR-09-08-76

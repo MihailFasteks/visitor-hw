@@ -1,0 +1,4 @@
+HDD Information:
+Producer: Western Digital
+Type: SATA III
+Volume: 2
